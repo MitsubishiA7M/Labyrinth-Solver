@@ -36,7 +36,7 @@ The program reads the file, validates the input, and extracts the labyrinth stru
 3 2 2 0 1 2 3 2 
 1 0 0 1 1 0 0 0
 
-
+![image](https://github.com/MitsubishiA7M/Several-ways-to-solve-the-maze-pathfinding-problem-by-using-DFS-traversal/blob/main/Example.png)
 
 ## Output
 
@@ -57,5 +57,5 @@ The labyrinth has 4 inaccessible inner points.
 The labyrinth has 2 accessible areas. The labyrinth has 1 accessible cul-de-sac. 
 The labyrinth has 2 entry-exit paths with no intersections leading to cul-de-sacs.
 
-Requirements
+# Requirements
 Python 3.x
