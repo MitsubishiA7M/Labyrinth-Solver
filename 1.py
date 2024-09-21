@@ -1,12 +1,3 @@
-# COMP9021 24T2
-# Assignment 2 *** Due Monday Week 11 @ 10.00am
-
-# DO *NOT* WRITE YOUR NAME TO MAINTAIN ANONYMITY FOR PLAGIARISM DETECTION
-
-
-# IMPORT ANY REQUIRED MODULE
-
-
 class LabyrinthError(Exception):
     def __init__(self, message):
         self.message = message
