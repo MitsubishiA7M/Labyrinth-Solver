@@ -498,5 +498,4 @@ class Labyrinth:
             print('The labyrinth has', self.entry_exit_paths, 'entry-exit path' + ('s' if self.entry_exit_paths != 1 else '') + ' with no intersections not to cul-de-sacs.')
 
 if __name__ == '__main__':
-    labyrinth = Labyrinth('D:\COMP9021\ASS2\labyrinth_2.txt')
     labyrinth.display_features()
