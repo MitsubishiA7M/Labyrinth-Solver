@@ -36,6 +36,8 @@ The program reads the file, validates the input, and extracts the labyrinth stru
 3 2 2 0 1 2 3 2 
 1 0 0 1 1 0 0 0
 
+
+
 ## Output
 
 The program outputs the following features of the labyrinth:
