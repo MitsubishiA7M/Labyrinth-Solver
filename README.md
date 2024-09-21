@@ -51,11 +51,11 @@ The program outputs the following features of the labyrinth:
 
 ### Example Output
 
-The labyrinth has 2 gates. 
-The labyrinth has 3 sets of walls. 
-The labyrinth has 4 inaccessible inner points. 
-The labyrinth has 2 accessible areas. The labyrinth has 1 accessible cul-de-sac. 
-The labyrinth has 2 entry-exit paths with no intersections leading to cul-de-sacs.
+- The labyrinth has 2 gates. 
+- The labyrinth has 3 sets of walls. 
+- The labyrinth has 4 inaccessible inner points. 
+- The labyrinth has 2 accessible areas. The labyrinth has 1 accessible cul-de-sac. 
+- The labyrinth has 2 entry-exit paths with no intersections leading to cul-de-sacs.
 
 # Requirements
 Python 3.x
